@@ -12,6 +12,10 @@ Navbar-Toggle: Vanilla JS to toggle the navbar
 
 Sidebar-Toggle: Vanilla JS to toggle the sidebar
 
+Modal: JS to show and hide a modal
+
+Questions: Vanilla JS to toggle question cards.
+
 Password Generator: A simple random password geneartor with the clipboard copy functionality.
 
 Drum kit: A event listener excersice(Transition, keydown) with sounds for appropriate pressed keys.
