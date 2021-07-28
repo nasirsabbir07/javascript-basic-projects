@@ -49,11 +49,11 @@ giveaway.textContent = `giveaway ends on ${day}, ${date} ${month} ${year}, ${hou
 //future time in ms
 
 const futureTime = futureDate.getTime();
-console.log(futureTime);
+//console.log(futureTime);
 
 function getRemainingTime() {
   const today = new Date().getTime();
-  console.log(today);
+  //console.log(today);
 
   const t = futureTime - today;
   // console.log(t);
@@ -69,8 +69,8 @@ function getRemainingTime() {
   let hours = Math.floor((t % oneDay) / oneHour);
   let minutes = Math.floor((t % oneHour) / oneMin);
   let seconds = Math.floor((t % oneMin) / 1000);
-  console.log(hours);
-  console.log(minutes);
+  //console.log(hours);
+  //console.log(minutes);
 
   //set values array
   const values = [days, hours, minutes, seconds];
