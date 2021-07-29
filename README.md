@@ -33,3 +33,5 @@ Basic Javascript Projects
 15.Video: A background video project that includes a preloader.
 
 16.Grocery list: A grocery list application that stores the list in local storage. Edit the local storage with localStorage.setItem(),localStorage.getItem(),localStorage.removeItem()
+
+17.Basic JS slider
