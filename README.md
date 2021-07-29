@@ -2,20 +2,32 @@
 
 Basic Javascript Projects
 
-Color-Flipper: A random color generator. app.js generates a random color from a hardcoded array. hex.js creates a random hexcode that in return creates the color.
+1. Color-Flipper: A random color generator. app.js generates a random color from a hardcoded array. hex.js creates a random hexcode that in return creates the color.
 
-Counter: A very basic counter that uses clicks to count up or down.
+2.Counter: A very basic counter that uses clicks to count up or down.
 
-Review-scroll: Use the buttons to scroll to the next and previous reviews. We can also show a random review by clicking on the 'Surprise Me' btn.
+3.Review-scroll: Use the buttons to scroll to the next and previous reviews. We can also show a random review by clicking on the 'Surprise Me' btn.
 
-Navbar-Toggle: Vanilla JS to toggle the navbar
+4.Navbar-Toggle: Vanilla JS to toggle the navbar
 
-Sidebar-Toggle: Vanilla JS to toggle the sidebar
+5.Sidebar-Toggle: Vanilla JS to toggle the sidebar
 
-Modal: JS to show and hide a modal
+6.Modal: JS to show and hide a modal
 
-Questions: Vanilla JS to toggle question cards.
+7.Questions: Vanilla JS to toggle question cards.
 
-Password Generator: A simple random password geneartor with the clipboard copy functionality.
+8.Password Generator: A simple random password geneartor with the clipboard copy functionality.
 
-Drum kit: A event listener excersice(Transition, keydown) with sounds for appropriate pressed keys.
+9.Drum kit: A event listener excersice(Transition, keydown) with sounds for appropriate pressed keys.
+
+10.Countdown Timer: A dynamic countdown timer with vanilla js utilizing Date() object and its various methods.
+
+11.Menu: A dynamic menu page with auto updated filter buttons according to the categories.
+
+12.Tab: An about page containing 3 tabs. We use target and dataset event property to access the tab buttons and show the paragraphs.
+
+13.Scroll: A webpage that shows smooth scrolling upon a link click. We use getBoundingClientRect(), getAttribute() methods and currentTarget event property.
+
+14.Random-text-generator: A random paragraph generator that takes an input of paragraph numbers and provides the paragraphs. We access forms through js.
+
+15.Video: A background video project that includes a preloader.
