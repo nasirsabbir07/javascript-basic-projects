@@ -31,3 +31,5 @@ Basic Javascript Projects
 14.Random-text-generator: A random paragraph generator that takes an input of paragraph numbers and provides the paragraphs. We access forms through js.
 
 15.Video: A background video project that includes a preloader.
+
+16.Grocery list: A grocery list application that stores the list in local storage. Edit the local storage with localStorage.setItem(),localStorage.getItem(),localStorage.removeItem()
